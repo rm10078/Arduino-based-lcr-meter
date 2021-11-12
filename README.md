@@ -42,7 +42,7 @@ input.
 
 ## Final device photo
 - The original project link : https://create.arduino.cc/projecthub/plouc68000/ardutester-v1-13-the-arduino-uno-transistor-tester-dbafb4
-- My video link: 
+- My video link: https://youtu.be/wP7gBNzqhKQ
 
 
 ![Logo](https://raw.githubusercontent.com/rm10078/Arduino-based-lcr-meter/main/img/final_photo_on.jpg)
