@@ -1,7 +1,7 @@
 
 # Arduino based lcr meter
 
-This device you can make so easily. I find the project for a bolg page in internet.
+This device you can make so easily. I find on internet.
 The lot of people all ready make this device. You can use this device in your regular
 work. The original project owner user name is plouc68000. 
 
