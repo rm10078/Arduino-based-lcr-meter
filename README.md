@@ -49,5 +49,5 @@ input.
 ## About Me
 - My contact number : +91 7047227881 
 - Whatsapp number : +91 9083161883
-- Youtube channale link : https://www.youtube.com/channel/UCK6HlyCjssslr956vJsCFPQ
+- Youtube channel link : https://www.youtube.com/channel/UCK6HlyCjssslr956vJsCFPQ
 
