@@ -47,7 +47,6 @@ input.
 
 ![Logo](https://raw.githubusercontent.com/rm10078/Arduino-based-lcr-meter/main/img/final_photo_on.jpg)
 ## About Me
-- My contact number : +91 7047227881 
-- Whatsapp number : +91 9083161883
+- Email : rm10078@gmail.com
 - Youtube channel link : https://www.youtube.com/channel/UCK6HlyCjssslr956vJsCFPQ
 
